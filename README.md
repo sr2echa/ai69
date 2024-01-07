@@ -24,7 +24,7 @@ First, import `ai69` and set your OpenAI API key:
 ```python
 from ai69 import ai
 
-ai.set("your-openai-api-key")
+ai.set_key("your-openai-api-key")
 ```
 
 > [!IMPORTANT]
