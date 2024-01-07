@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name='ai69',
-    version='0.1.0',
+    version='0.1.1',
     author='Sreecharan S.',
     description='An AI function generator for runtime',
     url='https://github.com/sr2echa/ai69', 
