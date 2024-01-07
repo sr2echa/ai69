@@ -1,4 +1,6 @@
-# ai69
+![image](https://github.com/sr2echa/ai69/assets/65058816/c4ad6cac-319e-4896-b904-775de720dcea)
+
+<br>
 
 `ai69` is a Python package to dynamically generate and execute Python functions for any occation. It's designed to simplify the process of integrating AI-powered functions for anything you want.
 
